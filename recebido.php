@@ -7,10 +7,6 @@
 			
 			<main>
 				<h1 style="margin-left:30%;">Contato recebido com sucesso, obrigado!</h1>
-			
-			
-		
-				
 			</main>
 			
 <?php 

@@ -32,8 +32,14 @@
 						<li><a href="destinos.php" tabindex="22">Destinos</a></li>
 						<li><a href="cadastro.php" tabindex="23">Cadastro em intercâmbio</a></li>
 						<li><a href="dep_aereo.php" tabindex="24">Departamento Aéreo</a></li>
-					</ul></li>
+					</ul>
+				</li>
+				<li  id="navbusca"><a href="buscar.php">Busca</a></li>
+				<li  id="navregistro"><a href="registro.php">Registre-se</a></li>
+				<li  id="navlogin"><a href="login.php">Login</a></li>
 			</ul>
+			
+			
 				<form>
 					<p id="busca">
 						<label>

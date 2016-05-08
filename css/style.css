@@ -26,7 +26,7 @@ a {text-decoration: none;}
 
 .nav:before,
 .nav:after {
-    content: " "; 
+    /*content: " ";*/ 
     display: table; 
 }
 .nav:after {
@@ -48,7 +48,7 @@ a {text-decoration: none;}
     border-top: 1px solid #104336;
 }
 .nav > li > .parent {
-    background-image: url("images/downArrow.png");
+    /*background-image: url("images/downArrow.png");*/
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -79,27 +79,60 @@ a {text-decoration: none;}
     border-top: 1px solid #1d7a62;
 }
 
+    #navbusca{
+    display:none;
+    
+    }
+    
+    #navregistro{
+    display:none;
+    
+    }
+    
+    #navlogin{
+    display:none;
+    }
+
 @media screen and (max-width: 768px) {
     .active {
         display: block;
     }
     .nav > li {
         float: none;
+        background-color: #1d7a62;
+        
     }
     .nav > li > .parent {
         background-position: 95% 50%;
+        
+
     }
     .nav li li .parent {
-        background-image: url("images/downArrow.png");
+        /*background-image: url("images/downArrow.png");*/
         background-repeat: no-repeat;
         background-position: 95% 50%;
+        
     }
     .nav ul {
-        display: block;
         width: 100%;
     }
    .nav > li.hover > ul , .nav li li.hover ul {
         position: static;
+        
+    }
+    
+    #navbusca{
+    display:block;
+    
+    }
+    
+    #navregistro{
+    display:block;
+    
+    }
+    
+    #navlogin{
+    display:block;
     }
     
    

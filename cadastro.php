@@ -8,7 +8,7 @@ require_once ('nav.php');
 
 
 <main>
-<p>Ficha de inscrição de cursos</p>
+<h1>Ficha de inscrição de cursos</h1>
 <form method="POST"
 	action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
 
