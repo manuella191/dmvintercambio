@@ -7,7 +7,7 @@ require_once ('nav.php');
 ?>
 <main>
 
-	<p>Envio de proposta para programa de intercâmbio</p>
+	<h1>Envio de proposta para programa de intercâmbio</h1>
 	
 	<form method="POST"
 		action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']);?>">

@@ -6,6 +6,7 @@
 
 ?>
 	<main>
+		<h1>Acompanhe o status dos processos</h1>
 		<p>Dados Cadastrais: Ok <img alt="ok" src="imagens/visto.png" class="imgvisto"></p>
 		<p>Envio de proposta: Ok <img alt="ok" src="imagens/visto.png" class="imgvisto"></p>
 		<p>Passaporte: Ok <img alt="ok" src="imagens/visto.png" class="imgvisto"></p>

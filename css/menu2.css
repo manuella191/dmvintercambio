@@ -211,25 +211,6 @@ font-weight:bold;
 font-size:24px;
 }
 
-.imgvisto{
-position:absolute;
-left:5%;
-width:1.5%;
-}
-
-.imgprocessamento{
-position:absolute;
-left:5%;
-width:1.5%;
-}
-
-.imgnegado{
-position:absolute;
-left:5%;
-width:1.5%;
-}
-
-
 @media screen and (max-width:319px) {
 	body{
 	background-color:#eee;
@@ -316,19 +297,19 @@ width:1.5%;
 	
 	.imgvisto{
 	position:absolute;
-	left:60%;
+	left:63%;
 	width:20px;
 	}
 	
 	.imgprocessamento{
 	position:absolute;
-	left:60%;
+	left:63%;
 	width:20px;
 	}
 	
 	.imgnegado{
 	position:absolute;
-	left:60%;
+	left:63%;
 	width:20px;
 	}
 	
@@ -368,19 +349,19 @@ width:1.5%;
 	
 	.imgvisto{
 	position:absolute;
-	left:32%;
+	left:57%;
 	width:20px;
 	}
 	
 	.imgprocessamento{
 	position:absolute;
-	left:32%;
+	left:57%;
 	width:20px;
 	}
 	
 	.imgnegado{
 	position:absolute;
-	left:32%;
+	left:57%;
 	width:20px;
 	}
 	
@@ -418,19 +399,19 @@ width:1.5%;
 	
 	.imgvisto{
 	position:absolute;
-	left:10%;
+	left:35%;
 	width:20px;
 	}
 	
 	.imgprocessamento{
 	position:absolute;
-	left:10%;
+	left:35%;
 	width:20px;
 	}
 	
 	.imgnegado{
 	position:absolute;
-	left:10%;
+	left:35%;
 	width:20px;
 	}
 	
