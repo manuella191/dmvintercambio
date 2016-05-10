@@ -33,6 +33,13 @@
 						<li><a href="cadastro.php" tabindex="23">Cadastro em intercâmbio</a></li>
 						<li><a href="dep_aereo.php" tabindex="24">Departamento Aéreo</a></li>
 					</ul>
+					
+				<li><a href="#" tabindex="25">Área do Usuário</a>
+					<ul>
+						<li><a href="atualizar.php" tabindex="26">Atualizar Cadastro</a></li>
+						<li><a href="processo.php" tabindex="27">Acompanhar trâmite</a></li>
+						<li><a href="proposta.php" tabindex="28">Enviar propostas de Intercâmbio</a></li>
+					</ul>
 				</li>
 				<li  id="navbusca"><a href="buscar.php">Busca</a></li>
 				<li  id="navregistro"><a href="registro.php">Registre-se</a></li>
