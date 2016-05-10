@@ -10,92 +10,64 @@
 			<main style="margin-left:15px;">
 			
 			<p>Alemanha</p>
-					<ul>
-						<li>Berlim</li>
-						<li>Frankfurt</li>
-						<li>Hamburgo</li>
-						<li>Munique</li>
-					</ul>
+			
+				<p>	<ul>
+						<li><a href="#Berlim">Berlim</a></li>
+					
+	
+						<li><a href="#Frankfurt">Frankfurt</a></li>
+		
+						
+						<li><a href="#Hamburgo">Hamburgo </a></li>
+	
+						
+						<li><a href="#Munique">Munique</a></li>
+						
+					</ul></p>
 
 				
 				<p>Espanha</p>
-					<ul>
-						<li>Alicante</li>
-						<li>Barcelona</li>
-						<li>Granada</li>
-						<li>Madrid</li>
-						<li>Málaga</li>
-						<li>Marbella</li>
-						<li>Salamanca</li>
-						<li>Sevilha</li>
-						<li>Tenerife</li>
-						<li>Valência</li>
-					</ul>
+				
+				<p><ul>
+						<li><a href="#Barcelona">Barcelona</a></li>
+						<li><a href="#Madrid">Madrid</a></li>
+					</ul></p>
 
 				
 				<p>Estados Unidos</p>
-					<ul>
-						<li>Lawrenceville</li>
-						<li>Los Angeles</li>
-						<li>Lubbock</li>
-						<li>Madison</li>
-						<li>Malibu</li>
-						<li>Melbourne</li>
-						<li>Miami</li>
-						<li>Milwaukee</li>
-						<li>Myrtle Beach, SC</li>
-						<li>Nashville</li>
-						<li>New Haven</li>
-						<li>New Rochelle - New York</li>
-						<li>New York</li>
-						<li>Oklahoma City</li>
-						<li>Orlando</li>
-						<li>Philadelphia</li>
-						<li>Pittsburgh</li>
-						<li>Portland</li>
-						<li>Richmond - KY</li>
-						<li>Ruston</li>
-						<li>San Antonio</li>
-						<li>San Diego</li>
-						<li>Santa Barbara</li>
-						<li>Santa Monica</li>
-						<li>São Francisco</li>
-						<li>Seattle</li>
-						<li>St. Louis</li>
-						<li>St. Paul</li>
-						<li>St. Petersburg</li>
-						<li>Tacoma</li>
-						<li>Tampa</li>
-						<li>Teaneck</li>
-						<li>Thousand Oaks</li>
-						<li>Washington, D.C</li>
-						<li>Whittier</li>
-					</ul>
+				
+					<p><ul>
+						<li><a href="#Los Angeles">Los Angeles</a></li>
+						<li><a href="#Miami">Miami</a></li>
+						<li><a href="#NewYork">New York</a></li>
+						<li><a href="#Orlando">Orlando</a></li>
+						<li><a href="#SaoFrancisco">São Francisco</a></li>
+						<li><a href="#Washington">Washington</a></li>
+					</ul></p>
 	
 				
 				<p>França</p>
-					<ul>
-						<li>Biarritz</li>
-						<li>Bordeaux</li>
-						<li>Nice</li>
-						<li>Paris</li>
-					</ul>
+					<p><ul>
+						<li><a href="#Bordeaux">Bordeaux</a></li>
+						<li><a href="#Nice">Nice</a></li>
+						<li><a href="#Paris">Paris</a></li>
+					</ul></p>
 	
 				
 		
 			
 				<p>Itália</p>
-					<ul>
-						<li>Florença</li>
-						<li>Milão</li>
-						<li>Roma</li>
-					</ul>
+					<p></p><ul>
+						<li><a href="#Florença">Florença</a></li>
+						<li><a href="#Milão">Milão</a></li>
+						<li><a href="#Roma">Roma</a></li>
+					</ul></p>
 		
 				
 				<p>China</p>
-					<ul>
-						<li>Pequim</li>
-					</ul>
+					<p><ul>
+						<li><a href="#Pequim">Pequim</a></li>
+					</ul></p>
 				
 		
 				
